@@ -7,9 +7,6 @@
     >
       <div class="now-playing__cover">
         <img
-          ·width:·100%;·height:·100%;
-           z-index: -1;
-           position:relative;
           :src="player.trackAlbum.image"
           :alt="player.trackTitle"
           class="now-playing__image"
